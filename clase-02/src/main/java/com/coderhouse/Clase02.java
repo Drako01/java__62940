@@ -170,10 +170,10 @@ public class Clase02 {
 		
 		randon = ( int ) (Math.random() * rango ) + minimo;
 		System.out.println(randon);
-		
-		final double PI = Math.PI;
-		
-		System.out.println(String.format("%.2f", PI));
+	
+//		final double PI = Math.PI;
+//		
+//		System.out.println(String.format("%.2f", PI));
 	}
 
 }
